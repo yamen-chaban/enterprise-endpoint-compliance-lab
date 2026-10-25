@@ -1,0 +1,12 @@
+# Do not commit generated reports, local inventories, credentials or course content.
+output/
+local-data/
+*.kdbx
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+secrets.*
+*.log
+.DS_Store
