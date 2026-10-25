@@ -1,0 +1,10 @@
+{
+  "scenario": "Fictitious company Windows endpoints. Not real devices.",
+  "devices": [
+    {"deviceName":"LAB-PC-01","osBuild":22631,"bitlockerEnabled":true,"defenderEnabled":true,"firewallEnabled":true},
+    {"deviceName":"LAB-PC-02","osBuild":26100,"bitlockerEnabled":true,"defenderEnabled":true,"firewallEnabled":true},
+    {"deviceName":"LAB-PC-03","osBuild":22631,"bitlockerEnabled":false,"defenderEnabled":true,"firewallEnabled":true},
+    {"deviceName":"LAB-PC-04","osBuild":26100,"bitlockerEnabled":true,"defenderEnabled":false,"firewallEnabled":true},
+    {"deviceName":"LAB-PC-05","osBuild":22000,"bitlockerEnabled":true,"defenderEnabled":true,"firewallEnabled":false}
+  ]
+}
