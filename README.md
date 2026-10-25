@@ -81,3 +81,7 @@ Keine Passwörter, Tokens, echte Geräteinventare, Kundendaten, Kursmaterialien,
 - [GitHub – Best Practices for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 
 **Status:** Starter-Repository. Nach dem ersten echten Testlauf die Resultate im Projektjournal ergänzen.
+
+## Täglicher Lern- und Entwicklungsplan (26.10.–20.11.2026)
+
+Der [tägliche 20-Tage-Portfolio-Plan](docs/daily-course-to-github-roadmap.md) verbindet angekündigte Weiterbildungsthemen mit **eigenen, unabhängigen** GitHub-Übungen. Offene Aufgaben sind in den [GitHub Issues](../../issues) erfasst. Alle Einträge sind Vorschläge und erst nach praktischer Umsetzung erledigt.
