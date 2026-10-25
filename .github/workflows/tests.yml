@@ -1,0 +1,14 @@
+name: PowerShell smoke test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run PowerShell test
+        shell: pwsh
+        run: ./tests/Test-EndpointComplianceReport.ps1
