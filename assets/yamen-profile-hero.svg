@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Yamen Chaban: IT systems, endpoint management, cloud automation">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071326"/><stop offset=".6" stop-color="#0d213c"/><stop offset="1" stop-color="#07324b"/></linearGradient><linearGradient id="beam" x1="0" x2="1"><stop stop-color="#7fe2ff"/><stop offset="1" stop-color="#73a0ff"/></linearGradient><pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#abcce0" opacity=".12"/></pattern></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/><rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+<path d="M67 57 H135" stroke="#71d9ff" stroke-width="4" stroke-linecap="round"/>
+<text x="67" y="91" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3" fill="#9ec4dc">IT SYSTEMS  /  ENDPOINTS  /  AUTOMATION</text>
+<text x="61" y="168" font-family="Segoe UI,Arial,sans-serif" font-size="62" letter-spacing="2" font-weight="700" fill="#f2faff">YAMEN CHABAN</text>
+<text x="66" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#c0d7e8">Windows administration  ·  PowerShell  ·  Cloud</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="14" letter-spacing=".5">
+<rect x="66" y="244" width="163" height="35" rx="8" fill="#143652" stroke="#4884a2"/><text x="82" y="267" fill="#91d9ff">ENDPOINT LABS</text>
+<rect x="243" y="244" width="168" height="35" rx="8" fill="#143652" stroke="#4884a2"/><text x="260" y="267" fill="#91d9ff">AZURE LEARNING</text>
+<rect x="426" y="244" width="159" height="35" rx="8" fill="#143652" stroke="#4884a2"/><text x="446" y="267" fill="#91d9ff">IT OPERATIONS</text>
+</g>
+<path d="M732 58 V265" stroke="#4a6b82" opacity=".6"/>
+<g fill="none" stroke="#5b9bc2" stroke-width="2"><path d="M868 96 L1004 157 L1111 101 M1004 157 L1100 239 M1004 157 L870 238 M868 96 L870 238"/>
+<circle cx="868" cy="96" r="24" fill="#0f2b46"/><circle cx="1111" cy="101" r="24" fill="#0f2b46"/><circle cx="1004" cy="157" r="42" fill="#10324c" stroke="#73d7ff" stroke-width="3"/><circle cx="870" cy="238" r="24" fill="#0f2b46"/><circle cx="1100" cy="239" r="24" fill="#0f2b46"/></g>
+<g fill="#83dcff"><circle cx="868" cy="96" r="7"/><circle cx="1111" cy="101" r="7"/><circle cx="870" cy="238" r="7"/><circle cx="1100" cy="239" r="7"/><rect x="989" y="145" width="30" height="21" rx="4" fill="none" stroke="#b1edff" stroke-width="3"/><path d="M996 172 H1014" stroke="#b1edff" stroke-width="3" stroke-linecap="round"/></g>
+<text x="762" y="285" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#95bcd5">BUILD  ·  DOCUMENT  ·  VERIFY</text>
+</svg>
