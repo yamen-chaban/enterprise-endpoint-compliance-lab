@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-label="Enterprise Endpoint Compliance Lab: synthetic PowerShell reporting">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#09172d"/><stop offset="1" stop-color="#153b55"/></linearGradient><pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#cce8fd" stroke-opacity=".05"/></pattern></defs>
+<rect width="1200" height="310" rx="18" fill="url(#bg)"/><rect width="1200" height="310" rx="18" fill="url(#grid)"/>
+<rect x="52" y="45" width="7" height="49" rx="3" fill="#6de0fc"/>
+<text x="82" y="74" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#8bd9ff" font-weight="700" letter-spacing="3">POWERSHELL  /  WINDOWS  /  REPORTING</text>
+<text x="52" y="147" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#f0f8ff">Endpoint Compliance Lab</text>
+<text x="55" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#bfd6e7">Inspectable security-baseline simulation</text>
+<rect x="54" y="226" width="437" height="47" rx="11" fill="#183c5a" stroke="#4c7792"/><text x="76" y="257" font-family="Consolas,monospace" font-size="19" fill="#98dcff">JSON   →   PowerShell   →   CSV</text>
+<rect x="753" y="50" width="390" height="211" rx="16" fill="#0c2035" stroke="#416987"/>
+<circle cx="778" cy="76" r="5" fill="#ff8193"/><circle cx="798" cy="76" r="5" fill="#f3c77c"/><circle cx="818" cy="76" r="5" fill="#7cdba5"/>
+<text x="777" y="117" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#d6e9fa">SAMPLE INVENTORY · EXPECTED</text>
+<path d="M776 130 H1122" stroke="#31516c"/>
+<rect x="777" y="150" width="160" height="68" rx="10" fill="#163e3c"/><rect x="953" y="150" width="166" height="68" rx="10" fill="#47332f"/>
+<text x="793" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#90e7bb">COMPLIANT</text><text x="795" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#e2fff1">02</text>
+<text x="968" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#ffcaad">NONCOMPLIANT</text><text x="969" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#ffdac6">03</text>
+<text x="778" y="243" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#91adc5">Synthetic records · No live Intune connection</text>
+</svg>
