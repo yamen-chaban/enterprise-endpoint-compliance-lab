@@ -1,5 +1,20 @@
+<div align="center">
+
+<img src="assets/endpoint-compliance.svg" width="100%" alt="Enterprise Endpoint Compliance Lab - PowerShell synthetic Windows baseline report"/>
+
 # Enterprise Endpoint Compliance Lab
 
+**Windows Endpoint Administration · PowerShell 7 · Security Baseline Reporting**
+
+[![PowerShell smoke test](https://github.com/yamen-chaban/enterprise-endpoint-compliance-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/yamen-chaban/enterprise-endpoint-compliance-lab/actions/workflows/tests.yml) ![Scope](https://img.shields.io/badge/Data-Synthetic%20only-087c91?style=flat-square) ![Project](https://img.shields.io/badge/Project-Training%20simulation-334155?style=flat-square)
+
+</div>
+
+> **Important:** This project evaluates fictional device inventory. It does not connect to Microsoft Intune, scan real endpoints or demonstrate production deployment. The counts in the example are expected demo outputs, not proof of an executed test.
+
+**Quick navigation:** [Run locally](#lokal-ausführen) · [Test script](tests/Test-EndpointComplianceReport.ps1) · [Architecture](docs/architecture.md) · [Troubleshooting](docs/troubleshooting.md) · [Learning journal](docs/projektjournal.md)
+
+---
 > **Portfolio-Projekt (Simulation)** · Windows Endpoint Administration · PowerShell · Reporting
 
 ## Ziel
