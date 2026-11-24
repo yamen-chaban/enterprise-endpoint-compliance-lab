@@ -10,7 +10,7 @@
 
 </div>
 
-> **Important:** This project evaluates fictional device inventory. It does not connect to Microsoft Intune, scan real endpoints or demonstrate production deployment. The counts in the example are expected demo outputs, not proof of an executed test.
+> **Important:** This project evaluates fictional device inventory. It does not connect to Microsoft Intune, scan real endpoints or demonstrate production deployment. The example counts were confirmed by the GitHub Actions smoke test on 23 November 2026 (see CI evidence below).
 
 **Quick navigation:** [Run locally](#lokal-ausführen) · [Test script](tests/Test-EndpointComplianceReport.ps1) · [Architecture](docs/architecture.md) · [Troubleshooting](docs/troubleshooting.md) · [Learning journal](docs/projektjournal.md)
 
@@ -50,7 +50,7 @@ Tests ausführen:
 pwsh ./tests/Test-EndpointComplianceReport.ps1
 ```
 
-Erwartet in der mitgelieferten Demo: **2 compliant / 3 noncompliant**. Die tatsächliche Ausgabe ist erst nach erfolgreicher Ausführung als getestet zu kennzeichnen.
+**Verifizierter CI-Nachweis (23.11.2026):** 5 synthetische Geräte, **2 compliant / 3 noncompliant**. Der Job `smoke-test` war erfolgreich und protokollierte `PASS: all smoke tests completed.` [Workflow-Lauf 45266467933](https://github.com/yamen-chaban/enterprise-endpoint-compliance-lab/actions/runs/45266467933) · [Projektjournal](docs/projektjournal.md). Der Nachweis gilt für den getesteten Commit; keine produktive Intune-Integration.
 
 ## Projektstruktur
 
@@ -95,7 +95,7 @@ Keine Passwörter, Tokens, echte Geräteinventare, Kundendaten, Kursmaterialien,
 - [Microsoft Learn – Intune Compliance Policies](https://learn.microsoft.com/en-us/intune/device-security/compliance/overview)
 - [GitHub – Best Practices for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 
-**Status:** Starter-Repository. Nach dem ersten echten Testlauf die Resultate im Projektjournal ergänzen.
+**Status:** Trainingssimulation mit dokumentiertem, erfolgreichem CI-Smoke-Test. Weitere Randfalltests und reale autorisierte Lab-Umgebungen bleiben nächste Schritte.
 
 ## Täglicher Lern- und Entwicklungsplan (26.10.–20.11.2026)
 
